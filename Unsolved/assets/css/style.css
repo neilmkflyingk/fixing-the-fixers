@@ -20,8 +20,10 @@ body {
     font-size: 48px;
 }
 
+/* font style changed to incorporate semantic element em */
 .header h1 .seo {
     color: #d9dcd6;
+    font-style: normal;
 }
 
 .header nav {
@@ -50,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
