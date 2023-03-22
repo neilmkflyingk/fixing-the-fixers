@@ -8,6 +8,7 @@ N/A
 
 ## Usage
 This site is used to teach potential customers more about what Horiseon does and has to offer. This project refactors the origin code in order to meet accessibility standards.
+Here is the link to the deployed page: https://neilmkflyingk.github.io/fixing-the-fixers/
 Here are screenshots of what the site should look like in your browser:
 ```md
 ![screenshots of top, middle, and bottom of page](Refactored/assets/images/screenshot-1.png)(Refactored/assets/images/screenshot-2.png)(Refactored/assets/images/screenshot-3.png)
